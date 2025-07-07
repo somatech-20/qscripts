@@ -4,7 +4,7 @@ Welcome to the **qscripts** repository. A collection of lightweight, reusable sc
 
 ## 📂 Branches
 
-- [`bash`](https://github.com/somatech-20/qscripts/tree/bash) – Bash scripts for system automation, task shortcuts, and utilities.
+- [`bash`](https://github.com/somatech-20/qscrpits/tree/bash?tab=readme-ov-file) – Bash scripts for system automation, task shortcuts, and utilities.
 <!-- - [`python`](https://github.com/somatech-20/quqscripts/tree/python) – Python scripts for data processing, quick tools, and scripting tasks.
 - [`powershell`](https://github.com/somatech-20/quqscripts/tree/powershell) – PowerShell scripts for Windows automation and sysadmin tasks.
 - [`js`](https://github.com/somatech-20/quqscripts/tree/js) – JavaScript snippets for browser automation or Node.js tools.
