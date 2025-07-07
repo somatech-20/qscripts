@@ -18,6 +18,10 @@ Welcome to the **qscripts** repository. A collection of lightweight, reusable sc
 - Scripts are intended for personal or team use, and may not be production-ready.
 - Contributions or suggestions are welcome!
 
+## 📜License
+ 
+This is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+
 ---
 
  _🛠 Happy scripting!_
