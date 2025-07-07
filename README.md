@@ -10,7 +10,7 @@ Welcome to the **qscripts** repository. A collection of lightweight, reusable sc
 - [`js`](https://github.com/somatech-20/quqscripts/tree/js) – JavaScript snippets for browser automation or Node.js tools.
 - [`zsh`](https://github.com/somatech-20/quqscripts/tree/zsh) – Zsh-specific customizations and helper scripts. -->
 
-> 🔀 Use the branch switcher on GitHub to view scripts in your language of choice.
+> 🔀 Click the name like *`bash`* above or Use the branch switcher on GitHub to view scripts in your language of choice.
 
 ## 📌 Notes
 
