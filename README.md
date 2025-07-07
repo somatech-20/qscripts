@@ -1,4 +1,4 @@
-[↩️Back](https://github.com/somatech-20/qscrpits/tree/main?tab=readme-ov-file)
+[↩️Back](https://github.com/somatech-20/qscrpits/tree/main)
 ---
 # git-reauth.sh
 Small utility to rewrite Git commit author and committer info: email, name, or both across history. Useful when someone committed with the wrong auth.
@@ -35,5 +35,5 @@ If `refs/original/` exists from a previous run, the script will offer to clean i
 - Bash
 - Git
 
-## 🙃 Why i did create this script?
+## 🙃 Why did i create this script?
 Because everyone commits with the wrong email at least once.
