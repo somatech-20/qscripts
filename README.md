@@ -36,4 +36,4 @@ If `refs/original/` exists from a previous run, the script will offer to clean i
 - Git
 
 ## 🙃 Why did i create this script?
-Because everyone commits with the wrong email at least once.
+Because everyone commits with the wrong **auth** at least once.
